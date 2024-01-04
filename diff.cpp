@@ -6,4 +6,5 @@ int main(){
     int num2= 38;
 
     cout<< "diff" << num1-num2<< endl;
+    cout<< "git done" << endl;
 }
